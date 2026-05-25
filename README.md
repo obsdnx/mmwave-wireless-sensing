@@ -1,4 +1,4 @@
-# mmWave-Sensor-Project
+# mmwave-wireless-sensing-cw
 
 The project demonstrates a common machine learning workflow for analyzing time-series or 3D position data, likely sourced from a mmWave radar sensor or similar motion-capture technology.
 
